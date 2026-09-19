@@ -35,7 +35,7 @@ index.php     --(require_once)--> render tabel HTML
 **Menggunakan XAMPP:**
 1. Salin folder project ke `C:/xampp/htdocs/`
 2. Jalankan Apache
-3. Buka `http://localhost/mini-project-1/`
+3. Buka `http://localhost/mini-project1/`
 
 **Menggunakan PHP built-in server:**
 ```bash
